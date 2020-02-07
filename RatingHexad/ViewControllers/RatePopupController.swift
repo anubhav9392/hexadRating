@@ -18,6 +18,7 @@ class RatePopupController: UIViewController {
     var ratingValue = 0
     @IBOutlet weak var ratingSlider: UISlider!
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         

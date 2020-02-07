@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController,MovielistDelegate,RatePopupDelegate {
     
     
+    
     @IBOutlet var navBar: UINavigationBar!
     
     @IBOutlet var screenLabel: UILabel!

@@ -19,6 +19,7 @@ class MovielistCell: UITableViewCell {
     @IBOutlet weak var rateLabel: UILabel!
     var index:Int!
     
+    
     @IBOutlet weak var rateBtn: UIButton!
     
     var delegate:MovielistDelegate!

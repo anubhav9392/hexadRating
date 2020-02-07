@@ -16,6 +16,7 @@ class Movie{
     
     init() {
         
+    
     }
     
     public var title:String{

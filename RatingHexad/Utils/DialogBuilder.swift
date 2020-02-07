@@ -17,7 +17,6 @@ class DialogBuilder{
     init(title: String, message: String) {
         alert = UIAlertController(title: title, message: message, preferredStyle: UIAlertController.Style.alert)
 
-//             add an action (button)
         alert.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.default, handler: nil))
     }
     func getAlert()->UIAlertController{

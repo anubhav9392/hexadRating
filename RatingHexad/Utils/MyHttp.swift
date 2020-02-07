@@ -17,6 +17,7 @@ class MyHttp{
                 
                 if let jsonResult = try JSONSerialization.jsonObject(with: data, options: .mutableLeaves) as? [String:Any],let mov = jsonResult["movies"] as? [[String:Any]]{
                     
+                    
                     for x in mov{
                         let moviedata = Movie()
                         moviedata.title = x["title"] as? String ?? ""
