@@ -1,0 +1,64 @@
+{
+    "movies" : [
+        {
+            "title" : "Subway Surfers",
+            "genre" : ["Action", "Adventure", "Sci-Fi"],
+            "rating" : 9,
+            "image" : "subwaysurfers"
+        },
+        {
+            "title" : "Clash of Clans",
+            "genre" : ["Drama"],
+            "rating" : 9,
+            "image" : "clashofclans"
+        },
+        {
+            "title" : "Candy Crush Soda Saga ",
+            "genre" : ["Action","Drama","Crime"],
+            "rating" : 8,
+            "image" : "candycrush"
+        },
+        {
+            "title" : "Callbreak Multiplayer",
+            "genre" : ["Drama", "Adventure", "Sci-Fi"],
+            "rating" : 8,
+            "image" : "callbreak"
+        },
+        {
+            "title" : "PlayerUnknown’s Battlegrounds",
+            "genre" : ["Drama", "War"],
+            "rating" : 9,
+            "image" : "playerunknown"
+        },
+        {
+            "title" : "Bubble Shooter",
+            "genre" : ["Drama", "Mystery", "Sci-Fi"],
+            "rating" : 8,
+            "image" : "bubbleshooter"
+        },
+        {
+            "title" : "Ludo King",
+            "genre" : ["Drama","Action"],
+            "rating" : 8,
+            "image" : "ludoking"
+        },
+        {
+            "title" : "Carrom Disc Pool",
+            "genre" : ["Action","Drama","Crime"],
+            "rating" : 8,
+            "image" : "carrom"
+        },
+        {
+            "title" : "Candy Crush Saga",
+            "genre" : ["Mystery","Thriller"],
+            "rating" : 7,
+            "image" : "saga"
+        },
+        {
+            "title" : "Garena Free Fire – Anniversary",
+            "genre" : ["Biography","Drama", "War"],
+            "rating" : 7,
+            "image" : "garena"
+        }
+    ]
+}

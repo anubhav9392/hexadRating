@@ -1,0 +1,64 @@
+{
+    "movies" : [
+        {
+            "title" : "All About Love",
+            "genre" : ["Author : Bell hooks"],
+            "rating" : 9,
+            "image" : "all_about_love"
+        },
+        {
+            "title" : "Desert Solitaire",
+            "genre" : ["Author : Edward Abbey"],
+            "rating" : 9,
+            "image" : "desert_solitare"
+        },
+        {
+            "title" : "Disgrace",
+            "genre" : ["Author : J. M. Coetzee"],
+            "rating" : 8,
+            "image" : "disgrace"
+        },
+        {
+            "title" : "Geek Love",
+            "genre" : ["Author : Katherine Dunn"],
+            "rating" : 8,
+            "image" : "greek"
+        },
+        {
+            "title" : "Gilead",
+            "genre" : ["Author : Marilynne Robinson"],
+            "rating" : 9,
+            "image" : "gilead"
+        },
+        {
+            "title" : "Giovanni's Room",
+            "genre" : ["Author : James Baldwin"],
+            "rating" : 8,
+            "image" : "giovanni"
+        },
+        {
+            "title" : "A Good Man Is Hard to Find and Other Stories",
+            "genre" : ["Author : Flannery O'Connor"],
+            "rating" : 8,
+            "image" : "agoodmanis"
+        },
+        {
+            "title" : "The Handmaid's Tale",
+            "genre" : ["Author : Margaret Atwood"],
+            "rating" : 8,
+            "image" : "handmade"
+        },
+        {
+            "title" : "The Hitchhiker's Guide to the Galaxy",
+            "genre" : ["Author : Douglas Adams"],
+            "rating" : 7,
+            "image" : "hitchhiker"
+        },
+        {
+            "title" : "Infinite Jest",
+            "genre" : ["Author : David Foster Wallace"],
+            "rating" : 7,
+            "image" : "infinitejest"
+        }
+    ]
+}

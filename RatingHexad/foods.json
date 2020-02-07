@@ -1,0 +1,64 @@
+{
+    "movies" : [
+        {
+            "title" : "CHICKEN MAKHANI (BUTTER CHICKEN)",
+            "genre" : ["Main Ingredient : CHICKEN"],
+            "rating" : 9,
+            "image" : "butter_chicken"
+        },
+        {
+            "title" : "SAMOSAS",
+            "genre" : ["Main Ingredient : POTATO"],
+            "rating" : 9,
+            "image" : "samosa"
+        },
+        {
+            "title" : "ALOO GOBI",
+            "genre" : ["Main Ingredient : POTATO,CAULIFLOWER"],
+            "rating" : 8,
+            "image" : "alloo_gobi"
+        },
+        {
+            "title" : "NAAN (FLATBREAD)",
+            "genre" : ["Main Ingredient : bread"],
+            "rating" : 8,
+            "image" : "garlic_naam"
+        },
+        {
+            "title" : "MATAR PANEER",
+            "genre" : ["Main Ingredient : PEAS,COTTAGE CHEESE"],
+            "rating" : 9,
+            "image" : "matarpaneer"
+        },
+        {
+            "title" : "ROGAN JOSH",
+            "genre" : ["Main Ingredient : MEAT"],
+            "rating" : 8,
+            "image" : "meat"
+        },
+        {
+            "title" : "TANDOORI CHICKEN",
+            "genre" : ["Main Ingredient : CHICKEN"],
+            "rating" : 8,
+            "image" : "tandoorichiken"
+        },
+        {
+            "title" : "TOMATO SOUP",
+            "genre" : ["Main Ingredient : TOMATO"],
+            "rating" : 8,
+            "image" : "tomatoe_soup"
+        },
+        {
+            "title" : "CHUTNEY",
+            "genre" : ["Main Ingredient : FRUIT"],
+            "rating" : 7,
+            "image" : "chutney"
+        },
+        {
+            "title" : "LASSIt",
+            "genre" : ["Main Ingredient : MILK"],
+            "rating" : 7,
+            "image" : "lassi"
+        }
+    ]
+}
